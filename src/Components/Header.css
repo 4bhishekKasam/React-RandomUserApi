@@ -1,0 +1,24 @@
+.head{
+    background-color: rgb(138, 169, 252);
+    color: black;
+    width:75px;
+    padding: 5%;
+}
+.container-fluid{
+    height: 60px
+}
+.nav .navbar-nav{
+    background-color: ccc;
+    padding-top: 23%;  
+}
+.navbar-header{
+    width:150px
+}
+.title{
+    padding-left: -40%;
+    background-color: whitesmoke;
+    
+}
+.row.new{
+    width:200px;
+}
